@@ -26,5 +26,5 @@ Run text_nontextregion_classifier.ipynb
 
 The classifier gets a f1-score of 0.91 on training set and 0.84 on cv set
 
-![Alttext]https://raw.github.com/Vishwesh4/Text-vs-Non-Text-Classifier/master/images/false.png
-![Alttext]https://raw.github.com/Vishwesh4/Text-vs-Non-Text-Classifier/master/images/true.png
+![Alttext](https://raw.github.com/Vishwesh4/Text-vs-Non-Text-Classifier/master/images/false.png)
+![Alttext](https://raw.github.com/Vishwesh4/Text-vs-Non-Text-Classifier/master/images/true.png)
